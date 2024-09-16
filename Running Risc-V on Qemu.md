@@ -1,11 +1,11 @@
-The following instructuins are given to direct you to create your emulation. 
+## The following instructuins are given to direct you to create your emulation. 
 
-Prepare the Pi 
+### Prepare the device withe essentials
 
 sudo apt update
 sudo apt install build-essential nano git htop ninja-build wget
 
-Build QEMU
+### Build QEMU
 ```console
 git clone https://github.com/qemu/qemu
 
