@@ -5,3 +5,4 @@ As a prerequisite, the person who reads this repository should be familiar with 
 
 For better performance and compatibility as a host machine we advise using the Ubuntu version of Linux to create the development environment.
 
+The necessary commands for Fedora environment is given in the
