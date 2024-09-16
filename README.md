@@ -7,5 +7,6 @@ For better performance and compatibility as a host machine we advise using the U
 
 The necessary commands for Fedora environment is given in the Running Riscv on Qemu readme file. 
 
-For the kernel module development of a custom emulated crypto core SHA256 with Buildroot development environment, check out my other repository on this link https://github.com/firatkagitci/Kernel-Module-Development-for-RISC-V-Architecture-with-Buildroot-Linux-
+For the kernel module development of a custom emulated crypto core SHA256 with Buildroot development environment, check out my other repository on this link
+https://github.com/firatkagitci/Kernel-Module-Development-for-RISC-V-Architecture-with-Buildroot-Linux-
 
