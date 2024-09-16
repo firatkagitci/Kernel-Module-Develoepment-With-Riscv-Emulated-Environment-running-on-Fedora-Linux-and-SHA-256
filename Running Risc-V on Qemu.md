@@ -8,7 +8,7 @@ sudo apt install build-essential nano git htop ninja-build wget
 Build QEMU
 
 git clone https://github.com/qemu/qemu
-'
+
 cd qemu
 mkdir build
 cd build
@@ -16,7 +16,7 @@ cd build
 make  -j3
 sudo make install
 cd ..
-'
+
 Download the RISC-V version of Fedora
 You can download Fedora RISC-V from https://dl.fedoraproject.org/pub/alt/risc-v/repo/virt-builder-images/images/
 
