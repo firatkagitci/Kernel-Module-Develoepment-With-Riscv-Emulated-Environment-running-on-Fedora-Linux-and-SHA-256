@@ -5,4 +5,7 @@ As a prerequisite, the person who reads this repository should be familiar with 
 
 For better performance and compatibility as a host machine we advise using the Ubuntu version of Linux to create the development environment.
 
-The necessary commands for Fedora environment is given in the
+The necessary commands for Fedora environment is given in the Running Riscv on Qemu readme file. 
+
+For the kernel module development of a custom crypto core SHA256, check out my other repository on this link https://github.com/firatkagitci/Kernel-Module-Development-for-RISC-V-Architecture-with-Buildroot-Linux-
+
